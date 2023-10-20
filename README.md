@@ -7,6 +7,5 @@
 - **Computer Vision**
   - Action Recognition
   - Object Detection
-  - Human-Object Interaction
-  - Scene Graph Generation
+  - Human-Object Interaction/Scene Graph Generation
 
